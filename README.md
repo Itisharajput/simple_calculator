@@ -1,22 +1,16 @@
-# simple_calculator
+# Simple Intrest Calculator
 
-# Simple Python Calculator Project
+This is a simple Python program to calculate Simple Intrest.
 
-This project is a basic Python program that calculates grade statistics.
-
-## Features
-- Takes grades as input from the user
-- Calculates total and average
-- Finds highest and lowest grade
-- Displays all results clearly
+## Formula
+Simple Intrest = ( principal * Rate * Time ) / 100
 
 ## How to Run
 1. Make sure Python is installed
 2. Run the file using:
-   python calculate_stats.py
+    python si_calculator.py
 
-## Concepts Used
-- Input and output
-- Lists
-- Built-in functions (sum, max, min, len)
-- Basic arithmetic
+## Features
+- Takes Principle , Rate and Time as input
+- Calculate Simple Intrest
+- Display result clearly
